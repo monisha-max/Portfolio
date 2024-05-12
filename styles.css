@@ -5,18 +5,18 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to right top, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
+    background-image: linear-gradient(to right top,  #FEA775, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
     color: #fff;
 }
 
 header {
-    background-image: linear-gradient(to right top,  #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
+    background-image: linear-gradient(to right top,  #FEA775, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
     padding: 1rem;
     text-align: center;
 }
 
 nav {
-    background-image: linear-gradient(to right top, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
+    background-image: linear-gradient(to right top, #FEA775, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
     padding: 0.5rem;
     text-align: center;
 }
@@ -54,6 +54,9 @@ nav a:hover {
 h2 {
     margin-top: 0;
 }
+h1, h2, h3, h4, h5, h6 {
+    color: #fff; /* Sets all heading colors to white */
+}
 
 .section {
     padding: 50px 0;
@@ -61,6 +64,6 @@ h2 {
 
 footer {
     text-align: center;
-    background-image: linear-gradient(to right top, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
+    background-image: linear-gradient(to right top,  #FEA775, #D46059, #AA405B, #802B5B, #56194F, #260B2C, #010002);
     padding: 1rem;
 }
