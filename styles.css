@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to right top, #edbaf0, #adb0ea, #6da4d2, #3c95ac, #2f817f);
+    background-image: linear-gradient(#ff8c00, #000000);
     color: #fff;
 }
 
